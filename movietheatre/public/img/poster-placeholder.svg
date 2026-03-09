@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+  <rect width="300" height="450" fill="#1a1a2e"/>
+  <rect width="300" height="450" fill="url(#g)" opacity="0.4"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2d2d4e"/>
+      <stop offset="1" stop-color="#0d0d1a"/>
+    </linearGradient>
+  </defs>
+  <!-- Film frame icon -->
+  <rect x="95" y="155" width="110" height="110" rx="8" fill="none" stroke="#2d2d4e" stroke-width="2.5"/>
+  <rect x="95" y="155" width="16" height="20" rx="2" fill="#2d2d4e"/>
+  <rect x="189" y="155" width="16" height="20" rx="2" fill="#2d2d4e"/>
+  <rect x="95" y="245" width="16" height="20" rx="2" fill="#2d2d4e"/>
+  <rect x="189" y="245" width="16" height="20" rx="2" fill="#2d2d4e"/>
+  <!-- Play triangle -->
+  <path d="M136 195 L136 225 L164 210 Z" fill="#2d2d4e"/>
+  <!-- Text -->
+  <text x="150" y="302" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3d3d5e" letter-spacing="1">NO IMAGE</text>
+</svg>

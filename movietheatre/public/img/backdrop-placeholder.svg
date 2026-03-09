@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#0d0d1a"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1a2e"/>
+      <stop offset="1" stop-color="#0d0d1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#g)"/>
+  <!-- Film strip lines -->
+  <rect x="0" y="0" width="1280" height="60" fill="#141428" opacity="0.6"/>
+  <rect x="0" y="660" width="1280" height="60" fill="#141428" opacity="0.6"/>
+  <!-- Sprocket holes top -->
+  <rect x="30" y="12" width="36" height="36" rx="4" fill="#1a1a2e"/>
+  <rect x="110" y="12" width="36" height="36" rx="4" fill="#1a1a2e"/>
+  <rect x="190" y="12" width="36" height="36" rx="4" fill="#1a1a2e"/>
+  <rect x="270" y="12" width="36" height="36" rx="4" fill="#1a1a2e"/>
+  <!-- Center icon -->
+  <rect x="540" y="290" width="200" height="140" rx="10" fill="none" stroke="#2d2d4e" stroke-width="3"/>
+  <path d="M600 325 L600 395 L650 360 Z" fill="#2d2d4e"/>
+  <text x="640" y="475" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#3d3d5e" letter-spacing="2">NO BACKDROP</text>
+</svg>
